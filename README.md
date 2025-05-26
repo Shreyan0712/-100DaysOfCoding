@@ -25,5 +25,5 @@ Welcome to my coding journey! This repository documents my progress as I take on
 You can run these programs in any Java IDE (like IntelliJ, Eclipse) or via command line:
 javac Day01_PalindromeChecker.java
 
-🙌 Let's Connect
+## 🙌 Let's Connect
 If you're also doing a coding challenge, feel free to connect, fork, or suggest improvements!
