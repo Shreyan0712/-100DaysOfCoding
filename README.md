@@ -1,16 +1,29 @@
-# 💯 100 Days of Code Challenge
-Welcome to my 100 Days of Code journey! 🚀
-I'm committing to coding every day for the next 100 days — solving problems, learning new concepts, and building consistency. This repo will track my daily progress, challenges, and what I learn along the way.
+# 💯 100 Days of Code – Java Edition
 
-📅 Start Date: May 26, 2025
-🏁 End Date: September 3, 2025
+Welcome to my coding journey! This repository documents my progress as I take on the **100 Days of Code** challenge using Java. Each day, I solve one or more coding problems, focusing on improving logic, consistency, and language skills.
 
-# 📌 Why I'm doing this:
-- To improve my problem-solving skills
+## 📅 Challenge Timeline
+- **Start Date**: May 26, 2025
+- **End Date**: September 3, 2025
 
-- To build a consistent coding habit
+## 📌 What's in this Repo?
+- ✅ Beginner-friendly Java programs
+- ✅ Problem-solving with conditionals, loops, arrays, etc.
+- ✅ Daily logs (organized by day or topic)
+- ✅ Clean and readable code
 
-- To explore new areas in programming
+## 🚀 Why I'm Doing This
+- To build a strong coding habit
+- To improve logical thinking
+- To master Java fundamentals
 
-# 📖 Follow along:
-I'll update this regularly with what I’m working on. Feel free to check it out, suggest improvements, or start your own challenge!
+## 🗂️ Folder Structure
+/Day01_PalindromeChecker.java
+
+
+## 📖 How to Run
+You can run these programs in any Java IDE (like IntelliJ, Eclipse) or via command line:
+javac Day01_PalindromeChecker.java
+
+🙌 Let's Connect
+If you're also doing a coding challenge, feel free to connect, fork, or suggest improvements!
