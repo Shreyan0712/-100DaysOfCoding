@@ -18,7 +18,8 @@ Welcome to my coding journey! This repository documents my progress as I take on
 - To master Java fundamentals
 
 ## 🗂️ Folder Structure
-/Day01_PalindromeChecker.java
+/Day01_Palindrome.java
+/Day01_PowerOfTwo.java
 
 
 ## 📖 How to Run
