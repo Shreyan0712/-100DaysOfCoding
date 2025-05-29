@@ -19,7 +19,9 @@ Welcome to my coding journey! This repository documents my progress as I take on
 
 ## 🗂️ Folder Structure
 /Day01_Palindrome.java <br>
-/Day01_PowerOfTwo.java
+/Day02_PowerOfTwo.java <br>
+/Day03_FibonacciNumber.java <br>
+/Day04_TribonacciNumber.java <br>
 
 
 ## 📖 How to Run
