@@ -17,16 +17,15 @@ Welcome to my coding journey! This repository documents my progress as I take on
 - To improve logical thinking
 - To master Java fundamentals
 
-## 🗂️ Folder Structure
-/Day01_Palindrome.java <br>
-/Day02_PowerOfTwo.java <br>
-/Day03_FibonacciNumber.java <br>
-/Day04_TribonacciNumber.java <br>
-
-
 ## 📖 How to Run
 You can run these programs in any Java IDE (like IntelliJ, Eclipse) or via command line:
 javac Day01_PalindromeChecker.java
 
 ## 🙌 Let's Connect
 If you're also doing a coding challenge, feel free to connect, fork, or suggest improvements!
+
+## 🗂️ Folder Structure
+/Day01_Palindrome.java <br>
+/Day02_PowerOfTwo.java <br>
+/Day03_FibonacciNumber.java <br>
+/Day04_TribonacciNumber.java <br>
