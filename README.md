@@ -31,3 +31,4 @@ If you're also doing a coding challenge, feel free to connect, fork, or suggest 
 /Day04_TribonacciNumber.java <br>
 /Day05_WaterBottles.java <br>
 /Day06_TwoSum.java <br>
+/Day07_AddToArrayFormOfInteger.java <br>
