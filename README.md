@@ -32,3 +32,10 @@ If you're also doing a coding challenge, feel free to connect, fork, or suggest 
 /Day05_WaterBottles.java <br>
 /Day06_TwoSum.java <br>
 /Day07_AddToArrayFormOfInteger.java <br>
+/Day08_MaximumProductofTwoElementsinArray.java <br>
+/Day09_MedianOfTwoSortedArrays.java <br>
+/Day10_MissingNumber.java <br>
+/Day11_RemoveElement.java <br>
+/Day12_SquaresOfASortedArray.java <br>
+/Day13_TwoSum_InputArrayIsSorted.java <br>
+
