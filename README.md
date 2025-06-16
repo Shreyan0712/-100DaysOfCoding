@@ -43,3 +43,7 @@ If you're also doing a coding challenge, feel free to connect, fork, or suggest 
 /Day16_LargestNumberAtLeastTwiceOfOthers.java <br>
 /Day17_ContainerWithMostWater.java <br>
 /Day18_IncreasingTripletSubsequence.java <br>
+/Day19_MaximumAscendingSubarraySum.java <br>
+/Day20_FindLuckyIntegerInAnArray.java <br>
+/Day21_BinarySearch.java <br>
+
